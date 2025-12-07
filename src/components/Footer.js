@@ -26,7 +26,7 @@ const Footer = () => {
             <h4 className="text-gray-300 mb-4">Connect with me</h4>
             <div className="flex gap-6">
               <a 
-                href="https://linkedin.com/in/kingalhazom"
+                href="https://www.linkedin.com/in/tshering-zangmo101/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white text-2xl transition-colors"
@@ -34,7 +34,7 @@ const Footer = () => {
                 <FaLinkedin />
               </a>
               <a 
-                href="https://github.com/yourusername"
+                href="https://github.com/tsheringzangmo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white text-2xl transition-colors"
@@ -47,10 +47,10 @@ const Footer = () => {
           {/* Quick Contact */}
           <div className="text-center md:text-right">
             <a 
-              href="mailto:kingalhazom368@gmail.com"
+              href="mailto:tsheringdevelopergmail.com"
               className="text-gray-400 hover:text-white transition-colors"
             >
-              kingalhazom368@gmail.com
+              tsheringdeveloper@gmail.com
             </a>
             <p className="text-gray-500 text-sm mt-2">
               Available for opportunities
